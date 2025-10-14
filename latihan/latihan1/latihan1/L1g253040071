@@ -1,0 +1,11 @@
+<HTML>
+      <HEAD>
+            <TITLE>ini judul</TITLE>
+      </HEAD>
+
+      <BODY>
+            gambar 1
+            <IMG SRC="pic1.jpg" ALIGN="MIDLE" ALT="sun flower" WIDTH="200" HEIGHT="300">
+            bunga matahari
+    </BODY>
+</HTML>

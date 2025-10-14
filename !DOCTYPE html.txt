@@ -1,0 +1,13 @@
+<DOCTYPE html>
+<html>
+ 
+	<title>ITW - pertemuan 2</title>
+
+	<body>
+	
+	  hello world!
+
+	</body>
+
+</html>
+

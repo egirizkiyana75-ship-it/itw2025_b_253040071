@@ -1,0 +1,21 @@
+<HTML>
+    <HEAD>
+        <TITLE>ini judulnya</TITLE>
+    </HEAD>
+
+    <BODY>
+        menu makanan dengan UL
+        <UL>
+            <LI>bakso
+            <LI>soto
+            <LI>siomay
+    </UL><BR>
+    menu minuman dengan OL
+    <OL>
+        <LI>ES jeruk
+        <LI>ES teler
+        <LI>ES campur
+      
+    </OL>
+</BODY>
+</HTML>
